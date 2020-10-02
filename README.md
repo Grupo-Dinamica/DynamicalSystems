@@ -11,3 +11,4 @@ Códigos relevantes em sistemas dinâmicos em geral, criados pelo grupo de Dinam
 7. Time series analysis: Kuramoto order parameter, recurrence quantification analysis (eg determinism and recurrence entropy), symbolic entropy, mutual information.
 8. Clustering analysis
 9. Plotting stuff and animations
+10. Beamer presentations (this is relevant!)
